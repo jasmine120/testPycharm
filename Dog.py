@@ -6,4 +6,4 @@ class Dog():
         self.name = name
         self.age = age
 
-    def
+    def sit
